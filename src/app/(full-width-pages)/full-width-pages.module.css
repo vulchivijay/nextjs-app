@@ -1,0 +1,6 @@
+html,
+body,
+.fullwidthpage {
+  height: 100%;
+  overflow: hidden;
+}

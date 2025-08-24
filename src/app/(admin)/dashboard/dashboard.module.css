@@ -1,0 +1,6 @@
+html,
+body,
+.dashboardWrapper {
+  height: 100%;
+  overflow: hidden;
+}
